@@ -1,5 +1,5 @@
 Drought Prediction Model
-https://via.placeholder.com/800x400?text=Drought+Prediction+Visualization
+
 
 This project implements machine learning and deep learning models to predict drought conditions based on meteorological data. The system processes historical weather data, engineers relevant features, trains multiple models, and provides drought risk assessments.
 
