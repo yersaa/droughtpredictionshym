@@ -136,4 +136,3 @@ drought-prediction/
 
 ---
 
-Let me know if you want a version with badges (e.g., Python version, license, etc.) or a GitHub Pages version for documentation.
